@@ -1,0 +1,2 @@
+- Principais percepções: O conhecimento de codificação e tecnologia pode capacitar as pessoas a questionar a autoridade e resistir ao fatalismo, de forma análoga a como a alfabetização em massa e a inovação tecnológica catalisaram revoluções históricas.
+- Notas/Tópicos relacionados: Impacto da alfabetização tecnológica nas revoluções históricas, função da alfabetização na democratização, importância do discurso público sobre tecnologia.

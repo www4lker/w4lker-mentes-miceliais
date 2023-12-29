@@ -1,0 +1,1 @@
+O artigo ressalta as experiências divergentes dos usuários em diferentes chatbots. Embora todos os três usem grandes modelos de linguagem para gerar respostas, as diferenças nas interfaces de usuário, nos estilos de resposta e nos parâmetros de processamento de dados levam a interações exclusivas.

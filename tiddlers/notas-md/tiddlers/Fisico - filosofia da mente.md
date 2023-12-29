@@ -1,0 +1,2 @@
+ - Físico - 
+   O fisicalismo é uma forma de monismo que argumenta que somente as entidades postuladas pela teoria física existem. Ele sugere que os processos mentais acabarão sendo explicados em termos dessas entidades à medida que a teoria física continuar a evoluir. Os fisicalistas redutivos afirmam que todos os estados e propriedades mentais acabarão sendo explicados por relatos científicos de processos e estados fisiológicos.

@@ -1,0 +1,2 @@
+**Decolonialidade: Uma estrutura anticolonial, anti-imperialista e antiopressiva**
+    A decolonialidade não é apenas um conceito, mas uma estrutura para entender o mundo. Ela é inerentemente anticolonial, anti-imperialista e antiopressiva. Sua essência está no reconhecimento da influência generalizada do colonialismo e do imperialismo sobre o conhecimento, o poder e as relações sociais, e na oposição a essa influência.

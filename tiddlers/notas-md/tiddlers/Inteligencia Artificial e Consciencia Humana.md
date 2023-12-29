@@ -1,0 +1,2 @@
+"Inteligência Artificial e Consciência Humana"
+- Explora a intrincada relação entre o surgimento da inteligência artificial e as possíveis implicações na consciência humana, nas normas éticas e na tomada de decisões.

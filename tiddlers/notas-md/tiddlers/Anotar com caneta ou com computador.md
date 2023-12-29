@@ -1,0 +1,11 @@
+Os autores discutem a diferença entre fazer anotações à mão e digitalmente no livro. Aqui estão as principais percepções:
+
+1. Pesquisas interdisciplinares afirmam que a anotação - seja ela escrita à mão ou digitada em um dispositivo digital - tem ajudado de forma produtiva o pensamento, a leitura e a redação dos alunos. Um aluno que anota um texto à mão pode esclarecer a compreensão conceitual e desenvolver habilidades de leitura ativa.
+
+2. Um estudo realizado em uma grande escola urbana de ensino médio dos EUA demonstrou que a anotação - descrita pelos autores como uma estratégia de alfabetização cognitiva - ajudou os alunos a analisar melhor as ideias, comunicar-se e fortalecer o vocabulário científico e os entendimentos conceituais específicos da disciplina.
+
+3. Em algumas salas de aula do ensino fundamental e médio e de universidades, verificou-se que os recursos sociais e colaborativos da anotação digital auxiliam as estratégias de leitura e compreensão, beneficiam o aprendizado de idiomas e apoiam a revisão e a crítica por pares. A anotação colaborativa pode ajudar a desenvolver as habilidades cognitivas e metacognitivas dos alunos e também pode motivar seu aprendizado.
+
+4. Os alunos também parecem gostar da anotação, sendo que alguns relatam uma visão favorável das atividades de anotação digital. Uma recente revisão da literatura de dezesseis estudos em sete disciplinas diferentes do ensino superior constatou que a compreensão de leitura, a revisão por pares, a motivação e as atitudes dos alunos em relação à tecnologia foram influenciadas positivamente pela anotação social e colaborativa.
+
+5. Os autores destacam que a eficácia da anotação, seja manual ou digital, depende de como a relação entre a anotação e o aprendizado é definida, descrita e medida. Muito depende das circunstâncias e das metas de aprendizado mais amplas, como a aquisição de vocabulário em um segundo idioma, a composição de ensaios persuasivos ou a geração de significado sobre um documento compartilhado.

@@ -1,0 +1,1 @@
+O fracasso, para Cioran, representa o aparecimento repentino do nada em meio à existência. Normalmente, evitamos contemplar o fracasso, mas, para Cioran, reconhecer e entender a mensagem sombria do fracasso era essencial para entender a própria vida.

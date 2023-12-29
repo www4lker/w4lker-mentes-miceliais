@@ -1,0 +1,1 @@
+Few Philosophers Documented Drug Experiences**: A few philosophers and writers, including Walter Benjamin, Michel Foucault, and Thomas de Quincey, have documented their experiences with mind-altering substances. These accounts provide rare insights into the effects of these substances on philosophical thought.

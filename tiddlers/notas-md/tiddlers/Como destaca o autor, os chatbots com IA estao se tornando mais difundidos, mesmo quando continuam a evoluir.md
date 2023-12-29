@@ -1,0 +1,1 @@
+Como destaca o autor, os chatbots com IA estão se tornando mais difundidos, mesmo quando continuam a evoluir. O rápido desenvolvimento e a aplicação de chatbots com IA generativa destacam a importância de entender seus mecanismos, avaliar sua confiabilidade e contemplar seu possível uso indevido devido a vieses nos dados de treinamento.

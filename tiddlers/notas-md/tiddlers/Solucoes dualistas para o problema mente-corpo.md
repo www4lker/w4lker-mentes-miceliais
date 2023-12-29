@@ -1,0 +1,2 @@
+ - Soluções dualistas para o problema mente-corpo - 
+   O dualismo oferece várias soluções para o problema mente-corpo. O dualismo interacionista, defendido por Descartes, sugere que os estados mentais interagem causalmente com os estados físicos. Outras formas de dualismo incluem o paralelismo psicofísico, o ocasionalismo, o dualismo de propriedade, a teoria do aspecto dual e o dualismo experiencial.

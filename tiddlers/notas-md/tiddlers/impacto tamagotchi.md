@@ -1,0 +1,1 @@
+Impacto do Tamagotchi: Em 1994, o brinquedo digital japonês chamado Tamagotchi conquistou o mundo, estimulando a relação afetiva entre o dono e um ser imaginário que emitia sinais. O usuário assumia o papel de "provedor onipotente de carinhos e proteções".

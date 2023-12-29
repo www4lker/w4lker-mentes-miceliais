@@ -1,0 +1,1 @@
+O autor enfatiza que, apesar das capacidades dos chatbots de IA, eles estão longe de substituir a interação humana. A lacuna continua evidente em tarefas como a geração de esquetes cômicos ou o fornecimento de informações em tempo real ou baseadas em localização.

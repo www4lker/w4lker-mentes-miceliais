@@ -1,0 +1,1 @@
+A sociedade moderna, de acordo com Cioran, neutraliza, esteriliza e oculta experiências desagradáveis por motivos econômicos e sociais. Como resultado, percepções profundas sobre a condição humana, especialmente aquelas obtidas da literatura que explora o "lado sombrio da existência", são frequentemente ignoradas.

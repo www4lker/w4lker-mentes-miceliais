@@ -1,0 +1,68 @@
+{
+  "name": "mentes-miceliais",
+  "version": "1.2.24",
+  "description": "tw5 plugin",
+  "tiddlywiki-plugin": "plugins/streams",
+  "config": {
+    "plugin-path": "plugins/streams",
+    "plugin-namespace": "$:/plugins/sq/streams",
+    "release-files": [
+      "CHANGELOG.md",
+      "package.json",
+      "{{PLUGINPATH}}/releasenotes.txt",
+      "{{PLUGINPATH}}/plugin.info",
+      "tiddlers/CHANGELOG.txt"
+    ]
+  },
+  "dependencies": {
+    "tiddlywiki": "^5.3.3",
+    "tiddlywiki-prerelease": "github:Jermolene/TiddlyWiki5"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^16.2.3",
+    "@commitlint/config-conventional": "^16.2.1",
+    "marked": "^4.0.12",
+    "nodemon": "^2.0.7",
+    "standard-version": "^9.3.0"
+  },
+  "scripts": {
+    "postinstall": "git config core.hooksPath ./.git-hooks",
+    "editor": "atom --new-window",
+    "browser": "chrome --new-window",
+    "build": "mkdir -p output && node ./node_modules/tiddlywiki/tiddlywiki.js . --build index",
+    "build-prerelease": "node ./node_modules/tiddlywiki-prerelease/tiddlywiki.js . --output ./output/prerelease/ --build index",
+    "build-beta": "node ./node_modules/tiddlywiki/tiddlywiki.js . --build beta",
+    "build-prerelease-beta": "node ./node_modules/tiddlywiki-prerelease/tiddlywiki.js . --output ./output/prerelease/ --build beta",
+    "update-tw": "npm install --save tiddlywiki-prerelease@github:Jermolene/TiddlyWiki5 && npm install --save tiddlywiki",
+    "dev": "npx nodemon -e tid,multids,js,info --watch plugins ./node_modules/tiddlywiki/tiddlywiki.js . --listen port=7111",
+    "dev-prerelease": "npx nodemon -e tid,multids,js,info --watch plugins ./node_modules/tiddlywiki-prerelease/tiddlywiki.js . --listen port=7111",
+    "release": "git diff HEAD --quiet && ( standard-version --skip.commit --skip.tag && ./scripts/create-release-note.js && ./scripts/publish.js ) || (tput setaf 1; echo 'ERROR: Git repository is dirty')",
+    "release:clean": "rm CHANGELOG-temp-PREV.md && rm CHANGELOG-temp-NEW.md",
+    "push": "git push origin main"
+  },
+  "standard-version": {
+    "scripts": {
+      "prechangelog": "cp CHANGELOG.md CHANGELOG-temp-PREV.md",
+      "postchangelog": "npm run editor CHANGELOG.md"
+    },
+    "bumpFiles": [
+      {
+        "filename": "package.json"
+      },
+      {
+        "filename": "plugins/streams/plugin.info",
+        "type": "json"
+      }
+    ]
+  },
+  "author": "www4lker",
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:saqimtiaz/streams.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saqimtiaz/streams/issues"
+  },
+  "homepage": "https://saqimtiaz.github.io/streams/"
+}

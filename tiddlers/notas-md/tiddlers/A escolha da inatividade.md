@@ -1,0 +1,2 @@
+**A escolha da inatividade**
+Emil Cioran, um filósofo, preferiu uma vida de pobreza e ociosidade a uma carreira tradicional, optando por viver à margem da sociedade em vez de se envolver em um trabalho convencional. Esse estilo de vida permitiu que ele percebesse e entendesse o mundo de forma diferente, adotando uma filosofia de inatividade e "perdedorismo".

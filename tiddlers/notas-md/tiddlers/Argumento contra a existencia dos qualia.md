@@ -1,0 +1,2 @@
+Argumento contra a existência dos qualia
+   O campo oposto argumenta contra a necessidade dos qualia para explicar as experiências subjetivas da consciência. Eles sustentam que as propriedades físicas de um evento ou objeto são suficientes para explicar as experiências subjetivas. Usando o mesmo exemplo, eles propõem que as propriedades físicas de uma maçã vermelha podem explicar adequadamente a experiência subjetiva de ver a cor vermelha, negando, portanto, a necessidade de qualia.

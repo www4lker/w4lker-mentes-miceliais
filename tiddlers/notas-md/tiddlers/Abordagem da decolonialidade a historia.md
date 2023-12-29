@@ -1,0 +1,2 @@
+**Abordagem da decolonialidade à história: Descolonização do conhecimento, do poder e das relações sociais**
+    O ponto central da decolonialidade é uma perspectiva única da história mundial. Essa visão defende a descolonização do conhecimento, do poder e das relações sociais. Essa descolonização rejeita as influências coloniais e imperiais sobre essas facetas, com o objetivo de restaurar a autonomia e a autenticidade das culturas e histórias afetadas pela colonização.

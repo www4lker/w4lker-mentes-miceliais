@@ -1,0 +1,2 @@
+**Nota 2: Ociosidade e conhecimento**
+Cioran argumentava que, para realmente entender o mundo, é preciso parar de agir sobre ele e, em vez disso, contemplá-lo. Suas percepções mais profundas surgiram de atividades aparentemente sem objetivo, como perambular por Paris e conversar com mendigos, em vez de atividades acadêmicas formais. 

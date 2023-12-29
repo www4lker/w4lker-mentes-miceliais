@@ -1,0 +1,1 @@
+A perspectiva marxista de Foucault sobre a tecnologia: Foucault apresentou um argumento marxista sobre os efeitos alienantes da tecnologia moderna, principalmente da tecnologia capitalista. Ele acreditava que quando uma pessoa não consegue mais reconhecer um significado humano ou vivo em suas atividades, isso leva a conflitos e possibilita a esquizofrenia.

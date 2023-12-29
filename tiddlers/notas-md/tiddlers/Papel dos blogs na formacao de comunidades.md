@@ -1,0 +1,2 @@
+**Papel dos blogs na formação de comunidades**
+   Os blogs facilitaram a formação de comunidades on-line, permitindo que os usuários se conectassem facilmente com pessoas que pensam da mesma forma. Esse aspecto contribuiu ainda mais para a crescente popularidade dos blogs durante esse período.

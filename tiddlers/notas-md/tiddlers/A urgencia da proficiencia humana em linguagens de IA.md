@@ -1,0 +1,3 @@
+
+- Principais percepções: À medida que a IA se torna mais proficiente em linguagens humanas, a necessidade de os humanos entenderem os dialetos da programação se torna ainda mais urgente para manter o controle sobre a revolução das máquinas.
+- Notas/Tópicos relacionados: Evolução da compreensão da linguagem da IA, função da OpenAI e de organizações semelhantes na promoção da alfabetização em IA, importância do controle humano no desenvolvimento da IA.

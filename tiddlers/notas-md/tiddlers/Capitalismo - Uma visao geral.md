@@ -1,0 +1,2 @@
+**Capitalismo: Uma visão geral**
+    O capitalismo é um sistema econômico baseado na propriedade privada dos meios de produção e sua operação com fins lucrativos. Ele continua sendo o sistema econômico dominante em todo o mundo, com a maioria das nações adotando alguma forma de economia capitalista.

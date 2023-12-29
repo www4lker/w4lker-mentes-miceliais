@@ -1,0 +1,3 @@
+
+- Principais percepções: Uma compreensão mais profunda do código pode estimular o pensamento crítico sobre as estruturas e ideologias subjacentes incorporadas às nossas tecnologias, expondo incentivos e agendas ocultas sob interfaces fáceis de usar.
+- Notas/Tópicos relacionados: Compreensão das plataformas digitais, considerações éticas no design de software, implicações da privacidade e segurança dos dados.

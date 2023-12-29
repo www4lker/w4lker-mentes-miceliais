@@ -1,0 +1,1 @@
+Philosophers' Disinterest in Mind-Altering Drugs**: Many philosophers show a lack of interest in experimenting with mind-altering substances or discussing their experiences with such substances publicly. This is despite the potential these substances have in altering one's perception of reality.

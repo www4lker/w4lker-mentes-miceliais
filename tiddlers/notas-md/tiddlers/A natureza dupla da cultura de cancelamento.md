@@ -1,0 +1,2 @@
+**A natureza dupla da cultura de cancelamento**
+   A cultura do cancelamento é um fenômeno diferenciado com aplicações benéficas e prejudiciais. É importante considerar o contexto completo antes de participar da cultura de cancelamento e estar ciente de seu possível uso indevido para atingir injustamente indivíduos ou grupos. 

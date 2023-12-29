@@ -1,0 +1,2 @@
+Debate em andamento sobre os qualia
+   O debate sobre a existência ou não de qualia é um discurso contínuo e ainda não se chegou a um consenso. Independentemente disso, os qualia continuam sendo um conceito crítico no campo da filosofia da mente, provavelmente estimulando novos debates nos próximos anos.

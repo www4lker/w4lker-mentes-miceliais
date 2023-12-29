@@ -1,0 +1,2 @@
+O mundo off-line e a natureza selvagem**
+   - Resumo: O "mundo off-line" e a "natureza selvagem" funcionam como recipientes para nossas frustrações com a vida contemporânea. Eles são definidos pelo que não contêm, e não pelo que contêm. É incrivelmente difícil situar a fronteira entre o off-line e o on-line. Ela se altera à medida que as tecnologias mudam e são absorvidas pela percepção cultural coletiva do que é real e do que é virtual.

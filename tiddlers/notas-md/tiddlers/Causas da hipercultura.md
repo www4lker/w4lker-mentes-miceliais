@@ -1,0 +1,1 @@
+A hipercultura é resultado da globalização e da crescente interconexão do mundo. É impulsionada pelo aumento do fluxo de informações, bens e serviços em todo o mundo. O avanço da tecnologia, especialmente a Internet, tem desempenhado um papel fundamental, permitindo que as pessoas acessem informações e se comuniquem facilmente em escala global.

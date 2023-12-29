@@ -1,0 +1,2 @@
+Turismo na natureza e desintoxicação digital**
+   - Resumo: O turismo na natureza selvagem atendia aos gostos das elites masculinas brancas dos Estados Unidos, que fugiam para a natureza para combater as tendências emasculadoras da civilização. Da mesma forma, os apelos para manter o wi-fi fora dos Parques Nacionais vêm, em sua maioria, de moradores ricos das cidades, que "saem da rede" para recarregar a mente e o corpo. O mundo de fantasia do off-line reproduz a "nostalgia da fronteira" embutida no conceito de natureza selvagem.

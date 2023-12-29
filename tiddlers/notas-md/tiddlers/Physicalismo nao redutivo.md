@@ -1,0 +1,2 @@
+  - Physicalismo não redutivo - 
+   O fisicalismo não redutivo argumenta que, embora a mente não seja uma substância separada, as propriedades mentais se sobrepõem às propriedades físicas. Ele sugere que os predicados e o vocabulário usados nas descrições e explicações mentais são indispensáveis e não podem ser reduzidos à linguagem e às explicações de nível inferior da ciência física.

@@ -1,0 +1,2 @@
+- Principais percepções: O autor destaca seu envolvimento precoce com a programação como uma forma de companheirismo sem julgamentos. Essa relação com a codificação proporcionou consolo em momentos de desconforto social e continua a fazê-lo.
+- Notas/Tópicos relacionados: Impacto da programação no desenvolvimento infantil, histórias pessoais de programadores.

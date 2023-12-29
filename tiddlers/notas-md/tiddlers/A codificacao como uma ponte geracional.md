@@ -1,0 +1,2 @@
+- Principais percepções: O autor observa que sua habilidade em codificação, antes vista com confusão, tornou-se uma fonte de admiração e conexão com as gerações mais jovens.
+- Notas/Tópicos relacionados: A mudança de percepção da sociedade em relação à codificação, o impacto da tecnologia nas interações entre gerações.

@@ -1,0 +1,11 @@
+Here are some recent and well-cited articles involving philosophers and consciousness-altering drug experiments:
+
+1. [Singularity and consciousness: A neuropsychological contribution](https://dx.doi.org/10.1111/jnp.12234) by E. D. de Haan, H. Scholte, Y. Pinto, N. Foschi, G. Polonara, M. Fabri. This paper examines the theoretical implications of impairments in conscious awareness and proposes a new way to conceptualize consciousness of singularity. The authors argue that the subjective feeling of singularity can coexist with several disunified conscious experiences. [PDF](https://pure.uva.nl/ws/files/70616887/Journal_of_Neuropsychology_2021_Haan_Singularity_and_consciousness_A_neuropsychological_contribution.pdf)
+
+2. [How does it feel to be on psilocybin? Dose-response relationships of subjective experiences in humans](https://dx.doi.org/10.1101/2020.06.09.142802) by T. Hirschfeld, T. Schmidt. This study aims to obtain the dose-response relationships of the subjective experiences induced by psilocybin in healthy study participants. [PDF](https://journals.sagepub.com/doi/pdf/10.1177/0269881121992676)
+
+3. [Rearing behaviour in the mouse behavioural pattern monitor distinguishes the effects of psychedelics from those of lisuride and TBG](https://dx.doi.org/10.3389/fphar.2023.1021729) by Yahong Chen, Junhong Liu, Yishan Yao, Haitao Yan, Ruibin Su. This paper examines the effects of phenylalkylamine and indoleamine psychedelics on locomotor activity and exploratory behaviour using the mouse Behavioural Pattern Monitor (BPM). [PDF](https://www.frontiersin.org/articles/10.3389/fphar.2023.1021729/pdf)
+
+4. [When art therapy went chemical: Alfred Bader, pharmacology, and art brut, c.1950-1970s](https://dx.doi.org/10.1590/S0104-59702022000500007) by Jelena Martinovic. This article analyzes how psychopharmacology transformed the relationship between art and psychiatry. It outlines a novel genealogy of art therapy, repositioning its origins in the context of evolving clinical practices and discourses on mind-altering drugs. [PDF](https://www.scielo.br/j/hcsm/a/fS9kqx4FSDXb5pXmgdLYQvJ/?lang=en&format=pdf)
+
+Would you like to dive into the full text of any of these articles or save any of them to your reference manager?

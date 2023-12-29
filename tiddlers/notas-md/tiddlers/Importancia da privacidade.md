@@ -1,0 +1,2 @@
+**Importância da privacidade: Proteção contra o uso malicioso de dados**
+   O aspecto crucial da privacidade no contexto digital é a proteção que ela oferece contra o uso malicioso de dados pessoais. Os indivíduos podem fazer valer seus direitos de privacidade para evitar que seus dados sejam usados para fins prejudiciais e controlar como eles são compartilhados, inclusive optando por não participar da coleta de dados ou restringindo o uso de dados.

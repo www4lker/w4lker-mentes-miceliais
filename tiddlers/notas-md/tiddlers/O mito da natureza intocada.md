@@ -1,0 +1,2 @@
+O mito da natureza intocada**
+   - Resumo: O mito da natureza intocada não só leva a políticas equivocadas que ameaçam as próprias qualidades que esperamos preservar, como também significa que menos recursos são direcionados para a limpeza de pátrias que já são consideradas "estragadas". Ao eliminarmos os entendimentos binários de fuga e retirada, conexão e desconexão, estamos nos aproximando de um quadro muito mais rico e complexo, no qual os sistemas humano, ecológico e tecnológico são mutuamente co-determinados.

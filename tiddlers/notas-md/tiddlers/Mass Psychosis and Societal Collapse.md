@@ -1,0 +1,2 @@
+"Mass Psychosis and Societal Collapse" (Psicose em massa e colapso social)
+- Avalia a afirmação de que a psicose em massa é iminente devido ao controle tecnológico do raciocínio humano, causando uma incapacidade de interpretar o mundo.

@@ -1,0 +1,2 @@
+O paradoxo da natureza selvagem**
+   - Resumo: William Cronon critica o conceito ocidental de "natureza selvagem" como uma fantasia que nos impede de nos envolvermos de forma significativa com os sistemas ecológicos. Ele argumenta que a ideia de natureza selvagem é um paradoxo: ela é vista como a paisagem definitiva da autenticidade, mas exclui a presença humana por definição. A natureza selvagem é uma criação humana na qual percebemos não a "natureza", mas o reflexo de nossos próprios anseios e desejos não examinados.

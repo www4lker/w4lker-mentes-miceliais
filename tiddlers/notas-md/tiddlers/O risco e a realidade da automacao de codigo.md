@@ -1,0 +1,2 @@
+- Principais percepções: Algoritmos como o GPT-3 e o Copilot do GitHub podem escrever códigos, provocando debates sobre a obsolescência dos desenvolvedores de software e gerando temores sobre a IA de autoprogramação.
+- Notas/Tópicos relacionados: Automação na codificação, IA como uma possível ameaça à segurança no trabalho, evolução dos algoritmos de codificação.

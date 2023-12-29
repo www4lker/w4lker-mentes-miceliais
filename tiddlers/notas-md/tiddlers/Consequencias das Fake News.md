@@ -1,0 +1,2 @@
+**Consequências das Fake News**
+   As notícias falsas têm sérias repercussões, inclusive a disseminação de desinformação, a manipulação da opinião pública, a instabilidade política e a divisão social. Elas também podem servir como uma ferramenta para obter vantagens políticas ou financeiras por meio da disseminação de informações falsas.

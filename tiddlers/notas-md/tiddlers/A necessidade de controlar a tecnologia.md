@@ -1,0 +1,1 @@
+A necessidade de controlar a tecnologia: Os estudos da genética e a revolução tecnológica exigem reflexões sobre suas implicações para a vida humana. Apesar dos benefícios trazidos pela tecnologia, é essencial controlar seus avanços para garantir que não comprometam a vida humana.

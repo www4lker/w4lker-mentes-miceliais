@@ -1,0 +1,1 @@
+A hipercultura afetou a maneira como as pessoas se comunicam. O aumento do uso da tecnologia, como as mídias sociais, facilitou a comunicação rápida e fácil entre as pessoas. No entanto, isso também levou a uma diminuição da comunicação face a face, o que pode ter implicações positivas e negativas para as relações sociais.

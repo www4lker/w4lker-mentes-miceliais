@@ -1,0 +1,2 @@
+**Críticas à cultura do cancelamento**
+   A cultura do cancelamento tem sido criticada por servir potencialmente como uma forma de censura, promovendo uma "mentalidade de multidão" em que os julgamentos são feitos sem a compreensão total do contexto e sendo usada indevidamente para atingir indivíduos ou grupos em vez de abordar os problemas básicos.

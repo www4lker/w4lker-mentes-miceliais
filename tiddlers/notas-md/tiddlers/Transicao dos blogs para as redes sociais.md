@@ -1,0 +1,2 @@
+**Transição dos blogs para as redes sociais**
+   A popularidade e o sucesso dos blogs abriram caminho para o surgimento de sites de redes sociais como Facebook e Twitter. Essas plataformas revolucionaram ainda mais a comunicação on-line, permitindo que os usuários se conectassem com amigos, familiares e desconhecidos e compartilhassem suas experiências em uma escala mais ampla.

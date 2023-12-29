@@ -1,0 +1,2 @@
+Debate sobre Qualia 
+   O conceito de qualia tem sido objeto de debate entre filósofos, psicólogos e neurocientistas há séculos e continua a ser um tópico polêmico. O debate se divide principalmente em dois campos: os proponentes que acreditam na realidade dos qualia e os céticos que negam sua existência.

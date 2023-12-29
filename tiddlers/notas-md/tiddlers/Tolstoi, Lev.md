@@ -1,0 +1,55 @@
+# Tolstói, Lev
+## criado em: 14:22 25-01-2023
+
+### Relacionado
+- palavras-chave: #literatura 
+- notas: 
+---
+>O conde LIEV TOLSTÓI nasceu em 1828. Participou da Guerra da Crimeia e se casou com Sofia Andrêievna Berhs em 1862. Enquanto administrava suas vastas propriedades nas estepes do Volga e dava continuidade a projetos educacionais, escrevia Guerra e paz (1869) e Anna Kariênina (1877). Uma confissão (1882) marcou uma crise espiritual em sua vida. Ele se tornou um moralista extremista e, em uma série de panfletos, a partir de 1880, expressou sua rejeição em relação ao Estado e à Igreja. Morreu em 1910, em meio a uma dramática fuga de casa, na pequena estação de trem de Astápovo.
+
+
+- [[Antologia do pensamento crítico russo]]
+- [[relendo os clássicos russos artigo new yorker]]
+- [[não existe literatura em um vácuo geográfico]]
+- [[Lev Tolstoi]]
+- [[PEN INTERNATIONAL]]
+- [[NOTAS DE LEITURA/LIVROS/Guerra E Paz]]
+- [[NOTAS DE LEITURA/LIVROS/A Sonata a Kreutzer]]
+- [[NOTAS DE LEITURA/LIVROS/Os últimos Dias]]
+- [[NOTAS DE LEITURA/LIVROS/Um Outro Amor]]
+- [[NOTAS DE LEITURA/LIVROS/Vozes De Tchernóbil]]
+- [[NOTAS DE LEITURA/LIVROS/Na Natureza Selvagem - Nova Edição Com Posfácio Inédito Do Autor]]
+- [[Tolstói – A biografia]]
+- [[NOTAS DE LEITURA/LIVROS/Dostoiévski, Com Moderação]]
+- [[NOTAS DE LEITURA/LIVROS/Contos Completos]]
+- [[NOTAS DE LEITURA/LIVROS/Piquenique Na Estrada]]
+- [[NOTAS DE LEITURA/LIVROS/A Morte De Ivan Ilitch]]
+- [[NOTAS DE LEITURA/LIVROS/Doença Como Metáfora  AIDS E Suas Metáforas]]
+- [[NOTAS DE LEITURA/LIVROS/Vozes De Tchernóbil]]
+- [[Vozes De Tchernóbil-2]]
+- [[Uma História Da Guerra]]
+- [[NOTAS DE LEITURA/LIVROS/Um Outro Amor]]
+- [[Tolstói, a Biografia]]
+- [[NOTAS DE LEITURA/LIVROS/Piquenique Na Estrada]]
+- [[Os últimos Dias-2]]
+- [[NOTAS DE LEITURA/LIVROS/Os últimos Dias]]
+- [[NOTAS DE LEITURA/LIVROS/Na Natureza Selvagem - Nova Edição Com Posfácio Inédito Do Autor]]
+- [[NOTAS DE LEITURA/LIVROS/Montaigne E a Liberdade Espiritual]]
+- [[Infância, Adolescência E Juventude]]
+- [[NOTAS DE LEITURA/LIVROS/Guerra E Paz]]
+- [[Guerra E Paz-2]]
+- [[NOTAS DE LEITURA/LIVROS/Dostoiévski, Com Moderação]]
+- [[NOTAS DE LEITURA/LIVROS/Doença Como Metáfora  AIDS E Suas Metáforas]]
+- [[NOTAS DE LEITURA/LIVROS/Crime E Castigo]]
+- [[NOTAS DE LEITURA/LIVROS/Contos Completos]]
+- [[Anos De Formação]]
+- [[NOTAS DE LEITURA/LIVROS/Anna Kariênina]]
+- [[NOTAS DE LEITURA/LIVROS/A Sonata a Kreutzer]]
+- [[SUSAN SONTAG ON WRITING]]
+- [[NOTAS DE LEITURA/LIVROS/A Morte De Ivan Ilitch]]
+- [[r books]]
+- [[NOTAS DE LEITURA/LIVROS/Montaigne E a Liberdade Espiritual]]
+- [[A Calendar of Wisdom]]
+- [[NOTAS DE LEITURA/LIVROS/Crime E Castigo]]
+- [[advice to aspiring writers]]
+- [[NOTAS DE LEITURA/LIVROS/Anna Kariênina]]

@@ -1,0 +1,2 @@
+**Contexto histórico e surgimento da cultura do cancelamento**
+   Embora o conceito de cultura do cancelamento esteja presente há décadas, ele ganhou força significativa com o surgimento da mídia social, que facilita a rápida expressão e disseminação de opiniões.

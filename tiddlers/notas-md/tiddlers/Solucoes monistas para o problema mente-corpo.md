@@ -1,0 +1,2 @@
+ - Soluções monistas para o problema mente-corpo - 
+   O monismo oferece diferentes soluções para o problema mente-corpo. O monismo fisicalista afirma que a única substância existente é a física. O idealismo afirma que a única substância existente é a mental. O monismo neutro aceita a existência de uma substância básica que não é nem física nem mental.

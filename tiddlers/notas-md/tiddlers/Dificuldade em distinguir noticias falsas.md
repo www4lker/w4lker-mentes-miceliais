@@ -1,0 +1,2 @@
+**Dificuldade em distinguir notícias falsas**
+   A diferenciação entre notícias reais e falsas é cada vez mais desafiadora devido à sofisticação da produção de notícias falsas. Para combater isso, é fundamental obter notícias de plataformas confiáveis e com credibilidade e procurar evidências que apoiem as alegações feitas na notícia.

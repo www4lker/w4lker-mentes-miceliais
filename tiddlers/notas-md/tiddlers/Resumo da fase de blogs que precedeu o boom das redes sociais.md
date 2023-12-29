@@ -1,0 +1,2 @@
+**Resumo da fase de blogs que precedeu o boom das redes sociais**
+   O período em que os blogs eram considerados formas de comunicação sérias viu o surgimento de várias plataformas de blogs que permitiam aos usuários compartilhar seus pensamentos e experiências. Essa fase, marcada por uma mudança nos meios de comunicação tradicionais, acabou levando ao surgimento de sites de redes sociais, transformando fundamentalmente a maneira como as pessoas se comunicam on-line.

@@ -1,0 +1,2 @@
+**Popularidade dos blogs devido à facilidade de criação e compartilhamento**
+   Os blogs ganharam popularidade porque permitiram que os usuários criassem e compartilhassem sem esforço seus pensamentos, opiniões e experiências com o mundo. Essa fácil acessibilidade diferenciava os blogs das formas tradicionais de comunicação, que normalmente eram limitadas a tópicos e públicos específicos.

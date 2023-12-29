@@ -1,0 +1,2 @@
+**Objetivo da decolonialidade: rompimento das estruturas coloniais para um mundo equitativo**
+    O objetivo da decolonialidade vai além da compreensão e passa à ação. Seu objetivo final é romper e desmantelar as estruturas que o colonialismo e o imperialismo moldaram, abrindo caminho para um mundo mais justo e equitativo. Esse rompimento é visto como necessário para a verdadeira igualdade global.

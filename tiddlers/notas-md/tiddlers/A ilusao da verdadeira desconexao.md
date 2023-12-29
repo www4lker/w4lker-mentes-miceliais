@@ -1,0 +1,2 @@
+A ilusão da verdadeira desconexão**
+   - Resumo: A verdadeira desconexão, assim como a verdadeira natureza selvagem, é um objetivo vazio. Os conceitos de "mundo off-line" e "natureza selvagem" funcionam como recipientes nos quais despejamos nossas frustrações com a vida contemporânea. Eles são definidos pelo que não contêm, e não pelo que contêm. É totalmente possível abandonar a fantasia do "mundo off-line" como a sede do real e, ao mesmo tempo, permanecer crítico em relação às formas como as tecnologias contemporâneas estão moldando nossas relações e identidades.

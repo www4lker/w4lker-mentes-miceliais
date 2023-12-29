@@ -1,0 +1,2 @@
+"The Consequences of AI Proliferation" (As consequências da proliferação da IA)
+- Examina os possíveis efeitos de longo prazo da proliferação da IA na cognição humana e nas estruturas sociais, com base em opiniões expressas por figuras como Henry Kissinger.

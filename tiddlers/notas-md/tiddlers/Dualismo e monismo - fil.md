@@ -1,0 +1,2 @@
+ - Dualismo e monismo - 
+   O dualismo e o monismo são as duas principais escolas de pensamento sobre o problema mente-corpo. O dualismo, introduzido na filosofia ocidental por René Descartes, argumenta que a mente é uma substância que existe independentemente. O monismo, por outro lado, postula que a mente e o corpo não são entidades separadas, mas são ontologicamente indiscerníveis. As diferentes formas de monismo incluem o fisicalismo, o idealismo e o monismo neutro.

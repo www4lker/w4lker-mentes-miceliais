@@ -1,0 +1,11 @@
+Here are some prominent and well-cited articles involving psychogeography:
+
+1. [Popular music, psychogeography, place identity and tourism: The case of Sheffield](https://dx.doi.org/10.1177/1468797613511685) by P. Long, published on 2014-04-01. This article focuses on Sheffield, a ‘post-industrial’ northern English city which is drawing on its associations with musicians past and present in seeking to attract tourists. It has been cited 38 times. [Full Text](http://eprints.bournemouth.ac.uk/21159/1/Long_SheffieldMusicTourism_FINAL.pdf)
+
+2. [Towards a Legal Psychogeography: pragmatism, affective-materialism and the spatio-legal](https://dx.doi.org/10.4000/rge.7534) by Luke Bennett, published on 2019-04-12. This article interrogates law’s relationship with affective materiality (the instinctive influence of things upon us) and also with the pragmatism that lies at the heart of actors’ engagement with their purposive framing of any situation. It has been cited 7 times. [Full Text](https://journals.openedition.org/rge/pdf/7534)
+
+3. [Psychogeography in the Age of the Quantified Self — Mental Map modelling with Georeferenced Personal Activity Data](https://dx.doi.org/10.5194/ICA-PROC-1-76-2018) by S. Meier and Katrin Glinka, published on 2018-05-16. This paper illustrates how personal georeferenced activity data can be used in algorithmic modelling of certain aspects of mental maps and customised spatial visualisations. It has been cited 5 times. [Full Text](https://www.proc-int-cartogr-assoc.net/1/76/2018/ica-proc-1-76-2018.pdf)
+
+4. [The City in Man: Foregrounding Psychogeography in The Blind Owl and City of Glass](https://dx.doi.org/10.17576/GEMA-2016-1602-09) by Pedram Lalbakhsh and Pouria Torkamaneh, published on 2016-06-21. This article argues that the pictures painted of the two metropolises with their specific cramped urban spaces function as culpable agents influencing the protagonists. It has been cited 3 times. [Full Text](http://ejournal.ukm.my/gema/article/download/10589/4303)
+
+Would you like to dive into the full text of any of these papers or search for additional papers? Also, if you want, I can help you save any of these papers to your Zotero reference manager.

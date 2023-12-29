@@ -1,0 +1,2 @@
+**Surgimento dos blogs como plataformas de comunicação séria**
+   A fase em que os blogs foram considerados formas sérias de comunicação marcou o surgimento de plataformas como Blogger, LiveJournal e WordPress. Essas plataformas proporcionaram aos usuários uma maneira fácil de criar e compartilhar seus pensamentos, opiniões e experiências com o mundo.

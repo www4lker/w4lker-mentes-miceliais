@@ -1,0 +1,1 @@
+Ao se declarar um "perdedor", Cioran adquiriu uma perspectiva única sobre a sociedade. Ele viu como a sociedade pode transformar nossa socialidade em autoescravidão e que o mundo, em sua essência, é um projeto fracassado. Para ele, abraçar a "condição de perdedor" era um caminho para percepções profundas sobre a existência.

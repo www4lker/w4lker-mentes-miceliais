@@ -1,0 +1,2 @@
+**Responsabilidades pessoais pela proteção da privacidade**
+   A conscientização e a ação individual são fundamentais para garantir a proteção da privacidade. A familiaridade com as leis e regulamentações de proteção à privacidade, o conhecimento das organizações que defendem a privacidade e as medidas de segurança pessoal, como senhas fortes, autenticação de dois fatores e discrição ao compartilhar informações pessoais on-line, são etapas importantes para esse fim.

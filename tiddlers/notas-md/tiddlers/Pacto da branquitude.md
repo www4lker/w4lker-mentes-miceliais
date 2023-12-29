@@ -1,0 +1,1 @@
+![[NOTAS DE LEITURA/LIVROS/O Pacto Da Branquitude]]

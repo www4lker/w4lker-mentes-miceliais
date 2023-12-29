@@ -1,0 +1,2 @@
+Natureza selvagem e desconexão tecnológica**
+   - Resumo: O conceito de natureza selvagem está intimamente ligado à ideia de "desconexão" tecnológica e à ideia de "desintoxicação digital" que a acompanha. Ambas as construções compartilham um repertório de motivos e uma base conceitual. Elas oferecem mitologias de a-historicidade e irresponsabilidade, uma cláusula de escape para os dilemas de um mundo globalizado. Elas representam grandes obstáculos à reflexão sobre a complexidade das relações humanas, tecnológicas e ecológicas.

@@ -1,0 +1,20 @@
+{
+   "tiddlers": [
+      {
+         "file": "markdown-notes/note1.md",
+         "isTiddlerFile": true,
+         "fields": {
+            "type": "text/x-markdown"
+         }
+      },
+      {
+         "file": "markdown-notes/note2.md",
+         "isTiddlerFile": true,
+         "fields": {
+            "type": "text/x-markdown"
+         }
+      },
+      // Adicione mais tiddlers conforme necessário
+   ]
+}
+

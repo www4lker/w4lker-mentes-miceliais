@@ -1,0 +1,2 @@
+**Proteção legal da privacidade na era digital**
+   A proteção da privacidade no mundo digital é complexa e orientada por várias leis e regulamentações. Estruturas notáveis incluem o Regulamento Geral de Proteção de Dados (GDPR), a Lei de Privacidade do Consumidor da Califórnia (CCPA) e a Lei de Proteção da Privacidade Online das Crianças (COPPA). Muitas organizações, como a Electronic Frontier Foundation (EFF), dedicam-se a defender os direitos de privacidade dos indivíduos.

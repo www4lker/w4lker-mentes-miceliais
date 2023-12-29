@@ -1,0 +1,1 @@
+Conservatism in Philosophy**: The field of philosophy, as an academic discipline, tends to be conservative. This conservatism often limits its exploration of altered states of consciousness and the potential insights they could offer.

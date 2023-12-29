@@ -1,0 +1,2 @@
+**A relação entre a decolonialidade e o pós-modernismo**
+   Existe uma forte relação entre a decolonialidade e o pós-modernismo, marcada pelo foco compartilhado em desafiar as estruturas de poder existentes, reexaminar a produção e a disseminação do conhecimento, enfatizar a importância de múltiplas perspectivas e reconhecer o papel dos preconceitos pessoais na formação do entendimento.

@@ -1,0 +1,2 @@
+**Ênfase compartilhada na contestação das estruturas de poder existentes**
+   Tanto a decolonialidade quanto o pós-modernismo se concentram em desafiar as estruturas de poder existentes. Eles compartilham o compromisso de reexaminar como o conhecimento é produzido e disseminado. Eles rejeitam uma "verdade" singular ou uma "realidade objetiva", destacando a importância de várias perspectivas para a compreensão de qualquer situação.
